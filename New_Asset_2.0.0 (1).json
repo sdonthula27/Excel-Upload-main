@@ -13,14 +13,14 @@
     {
       "kind": "main",
       "tag": "com-santhosh-sap-sac-excel",
-      "url": "http://localhost/Excel-Upload/excel.js",
+      "url": "https://github.com/sdonthula27/Excel-Upload-main/excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     },
     {
       "kind": "styling",
       "tag": "com-santhosh-sap-sac-excel",
-      "url": "http://localhost/Excel-Upload/aps_excel.js",
+      "url": "https://github.com/sdonthula27/Excel-Upload-main/aps_excel.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
